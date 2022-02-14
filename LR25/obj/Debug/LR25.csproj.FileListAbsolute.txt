@@ -1,0 +1,7 @@
+C:\Users\Elina\Desktop\3 курс\КПЯП\Лабы\ЛР25\LR25\bin\Debug\LR25.exe.config
+C:\Users\Elina\Desktop\3 курс\КПЯП\Лабы\ЛР25\LR25\bin\Debug\LR25.exe
+C:\Users\Elina\Desktop\3 курс\КПЯП\Лабы\ЛР25\LR25\bin\Debug\LR25.pdb
+C:\Users\Elina\Desktop\3 курс\КПЯП\Лабы\ЛР25\LR25\obj\Debug\LR25.csproj.AssemblyReference.cache
+C:\Users\Elina\Desktop\3 курс\КПЯП\Лабы\ЛР25\LR25\obj\Debug\LR25.csproj.CoreCompileInputs.cache
+C:\Users\Elina\Desktop\3 курс\КПЯП\Лабы\ЛР25\LR25\obj\Debug\LR25.exe
+C:\Users\Elina\Desktop\3 курс\КПЯП\Лабы\ЛР25\LR25\obj\Debug\LR25.pdb
